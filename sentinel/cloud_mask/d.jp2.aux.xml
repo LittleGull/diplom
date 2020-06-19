@@ -1,0 +1,24 @@
+<PAMDataset>
+  <GeoTransform>  3.0000000000000000e+05,  1.0000000000000000e+01,  0.0000000000000000e+00,  5.6000400000000000e+06,  0.0000000000000000e+00, -1.0000000000000000e+01</GeoTransform>
+  <PAMRasterBand band="1">
+    <Histograms>
+      <HistItem>
+        <HistMin>1.571428571428571</HistMin>
+        <HistMax>8.428571428571429</HistMax>
+        <BucketCount>7</BucketCount>
+        <IncludeOutOfRange>0</IncludeOutOfRange>
+        <Approximate>1</Approximate>
+        <HistCounts>43|38|474|1781|122|41|1</HistCounts>
+      </HistItem>
+    </Histograms>
+    <Metadata domain="IMAGE_STRUCTURE">
+      <MDI key="COMPRESSION">JPEG2000</MDI>
+    </Metadata>
+    <Metadata>
+      <MDI key="STATISTICS_MAXIMUM">8</MDI>
+      <MDI key="STATISTICS_MEAN">4.8112</MDI>
+      <MDI key="STATISTICS_MINIMUM">2</MDI>
+      <MDI key="STATISTICS_STDDEV">0.69825107232284</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
